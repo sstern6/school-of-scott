@@ -31,5 +31,11 @@ Connect your css file to your html file.
 
 Make a red box (i dont care what size) using a `<div />` in the html and setting the color in your css file.
 
+### BREAK
+
+Using git, create a branch, add and commit your files. Push your changes to your branch using `git push origin HEAD` (HEAD meaing the branch you are currently on in your terminal) DO NOT EVER PUSH TO MASTER! 
+
+Open a Pull Request and ping me to review your changes.
+
 
 
