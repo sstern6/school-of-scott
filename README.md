@@ -4,7 +4,7 @@
 
 Build a twitter clone! READY GO!
 
-Just kidding...lol
+Just kidding
 
 ## Exercise 1...really
 
