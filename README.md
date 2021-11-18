@@ -1,10 +1,8 @@
 # school-of-scott
 
-## Exercise 1
+## Exercise 12
 
 Build a twitter clone! READY GO!
-
-1233444
 
 ## Exercise 1...really
 
